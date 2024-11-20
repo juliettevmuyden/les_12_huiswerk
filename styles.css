@@ -1,0 +1,51 @@
+/* Algemene opmaak */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #ff00a6;
+    color: #dab4cd;
+    text-align: center;
+}
+
+footer {
+    background-color: #dab4cd;
+    color: #ff00a6;
+}
+
+
+/* Tabelopmaak */
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+td {
+    width: 25%;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 18px;
+    color: #fff;
+}
+
+/* Achtergrondkleuren voor cellen */
+#cell1 { background-color: #C71585; }
+#cell2 { background-color: #1500ff; }
+#cell3 { background-color: #393200; }
+#cell4 { background-color: #ac6262; }
+#cell5 { background-color: #593fd7; }
+#cell6 { background-color: #36a559; }
+#cell7 { background-color: #c7c461; }
+#cell8 { background-color: #c0bc7f; }
+#cell9 { background-color: #ff9999; }
+#cell10 { background-color: #6c2d2d; }
+#cell11 { background-color: #9e9bc5; }
+#cell12 { background-color: #99ff99; }
+#cell13 { background-color: #c299ff; }
+#cell14 { background-color: #ffcc99; }
+#cell15 { background-color: #99afff; }
+#cell16 { background-color: #de6f01; }
+
